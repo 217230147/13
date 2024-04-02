@@ -58,8 +58,6 @@ public class Main {
         System.out.println(line);
         writer.write(line);
         writer.newLine();
-       
-     
        }
 
     System.out.println(  "The grocery shopping total is: " + Math.round(total) + "€");
